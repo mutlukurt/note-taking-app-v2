@@ -5,20 +5,20 @@ A beautiful and modern note-taking application built with React and Tailwind CSS
 ## Screenshots
 
 ### Login Screen
-![Login Page](screenshots/01-login-page.png)
-*Beautiful gradient login screen with glass-morphism effect*
+![Login Screen](screenshots/01-login-screen.png)
+*Beautiful gradient login screen with glass-morphism effect and modern design*
 
 ### Main Dashboard
 ![Main Dashboard](screenshots/02-main-dashboard.png)
-*Clean and organized note management interface*
+*Clean and organized note management interface with sidebar navigation*
 
 ### Note Creation Modal
-![Note Modal](screenshots/03-note-modal.png)
-*Intuitive note creation and editing interface*
+![Note Creation Modal](screenshots/03-note-creation-modal.png)
+*Intuitive note creation and editing interface with form fields*
 
 ### Pro Features Modal
 ![Upgrade Modal](screenshots/04-upgrade-modal.png)
-*Premium features upgrade interface*
+*Premium features upgrade interface with pricing plans*
 
 ## Features
 
