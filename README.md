@@ -2,6 +2,12 @@
 
 A beautiful and modern note-taking application built with React and Tailwind CSS.
 
+## 🚀 Live Demo
+
+**[View Live Demo](https://mutlukurt.github.io/note-taking-app-v2/)**
+
+Experience the app live on GitHub Pages!
+
 ## Screenshots
 
 ### Login Screen
